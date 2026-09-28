@@ -41,7 +41,7 @@ Sou graduando em Engenharia Eletrônica e de Computação pela Universidade Fede
 
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorOliveiraa&layout=compact)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JoaoVitorOliveiraa&layout=donut&langs_count=7&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=JoaoVitorOliveiraa&layout=donut&langs_count=7&theme=light_github)
 
 ## Github Stats
-![Joao's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitorOliveiraa&show_icons=true&theme=radical) 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JoaoVitorOliveiraa&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=JoaoVitorOliveiraa&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=light_github)
